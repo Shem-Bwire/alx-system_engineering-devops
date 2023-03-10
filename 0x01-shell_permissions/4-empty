@@ -1,2 +1,2 @@
-#!/bin/bsh
-touch hello
+#!/bin/bash
+#touch hello
